@@ -1,0 +1,7 @@
+*.nex
+*.bin
+*.map
+celeste
+**/CSpect
+!.gitignore
+testbuilds/*.nex
